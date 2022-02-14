@@ -2,7 +2,7 @@
 
 Antes de tudo, verifique se o seu ambiente possui todas as bibliotecas listadas no arquivo requirements.txt
 
-Apresentação do trabalho [aqui](https://youtu.be/rIwonSRZGuU).
+Vídeo da apresentação do trabalho [aqui](https://youtu.be/rIwonSRZGuU).
 
 - Campos potenciais
 1) Abra a cena scenes/cave_scene.ttt no CoppeliaSim e inicie a simulação
